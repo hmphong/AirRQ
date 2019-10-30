@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657688710695",
+    "firebase_url": "https://airrq-34a14.firebaseio.com",
+    "project_id": "airrq-34a14",
+    "storage_bucket": "airrq-34a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657688710695:android:fca146d0ff81e3e4ca0802",
+        "android_client_info": {
+          "package_name": "com.example.airrq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657688710695-4jvjcqrqpblcrq70jefuemkgu6p8t64p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airrq",
+            "certificate_hash": "8368219f65b564782a6c7d233e117bf558faaa5d"
+          }
+        },
+        {
+          "client_id": "657688710695-0d87iqb892ckfpc8v9t7akkoi329f29p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoFaW9tLurf9EdxnCs-xHFj4r3LTXgLS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657688710695-0d87iqb892ckfpc8v9t7akkoi329f29p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
